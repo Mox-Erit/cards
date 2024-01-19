@@ -38,4 +38,5 @@ defmodule Cards do
     |> Cards.shuffle
     |> Cards.deal(hand_size)
   end
+
 end
